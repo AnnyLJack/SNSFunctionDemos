@@ -324,6 +324,8 @@
     audioAsset = nil;
     firstAsset = nil;
     secondAsset = nil;
+    
+    
 }
 
 - (void)clipAndSaveWithVideo:(UIButton *)sender {
